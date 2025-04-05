@@ -27,7 +27,7 @@
 ## 🛠️ Installation
 ### Option 1 – Zip Download
 1. Download the `.zip` of this repository.
-2. Extract it into your Unity project's `Assets` folder.
+2. Extract it into your Unity project's `Editor` folder (if not created, create the folder).
 
 ### Option 2 – Unity Package Manager (via Git URL)
 1. Open `Window > Package Manager`.
