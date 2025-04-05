@@ -32,7 +32,7 @@
 ### Option 2 – Unity Package Manager (via Git URL)
 1. Open `Window > Package Manager`.
 2. Click the `+` icon > `Add package from Git URL...`.
-3. Paste: https://github.com/TakNof/Unity-EasierAnimatorTransitionCopier.git
+3. Paste: https://github.com/TakNof/Unity-EasierAnimatorTransitionCopier.git?path=Packages/com.taknof.unity-easieranimatortransitioncopier
 
 ## 📸 Screenshots
 
