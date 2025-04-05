@@ -1,0 +1,19 @@
+{
+    "name": "com.taknof.unity-easieranimatortransitioncopier",
+    "version": "1.0.0",
+    "displayName": "Unity-EasierAnimatorTransitionCopier",
+    "description": "A tool that allows you to copy and paste animator transitions between different animator controllers in Unity.",
+    "keywords": [
+        "unity",
+        "animator",
+        "transitions",
+        "copy",
+        "paste",
+        "tool"
+    ],
+    "unity": "2020.3",
+    "author": {
+      "name": "Alejandro Fonseca Téllez (TakNof)",
+      "url": "https://github.com/TakNof"
+    }
+  }
